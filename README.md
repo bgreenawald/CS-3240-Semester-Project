@@ -1,2 +1,2 @@
-# cs3240-f16-team07-project
-The project to be finished by the end of Fall 2016 in CS 3240.
+# CS 3240 Semester Project
+This project was completed in the Fall of 2016 as part of an advanced software development course. The project is a secure file sharing website written in django where users can upload and share files with other users.
